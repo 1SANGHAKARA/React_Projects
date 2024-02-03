@@ -1,0 +1,14 @@
+@media screen and (max-width: 692px) {
+    .hero{
+        flex-direction: column;
+        
+    }
+    .shopping{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+   }
+   
+  }
+  
